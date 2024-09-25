@@ -2,3 +2,7 @@ streamlit
 pandas
 opencv-python
 ultralytics
+torch
+torchvision
+Pillow
+cv2
