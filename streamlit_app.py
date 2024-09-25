@@ -15,7 +15,7 @@ st.set_page_config(
 # -----------------------------------------------------------------------------
 
 # Load the model
-model = YOLO(r"C:\Users\gemar\Documents\VS\streamlit_run\yolov8n.pt")
+model = YOLO('yolov8n.pt')
 
 # Streamlit app
 st.title("Image Classification with PyTorch")
